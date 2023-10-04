@@ -1,0 +1,43 @@
+Baseline Timing:
+1 season, static amp = 4, length 128 : 13 minutes, 39.19 seconds.
+*after changes to regional regular season length
+10 minutes, 16.13 seconds.
+
+Relegation Chain:
+
+chain is 15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+16 teams competing for six spots: two playoff spots, and four spots safe from relegation.
+31,32,33,34,35,36 are automatically relegated.
+These teams MISS the universal draft, and their draft picks are given to the eight regional champions
+REGARDLESS of whether those champions ever made the Universal League
+
+Chain teams enter a 16 team double elimination tournament, the top two make it into the playofffs,
+and the next four are safe from relegation. The other 10 teams join the bottom 6 teams in the universal qualifying.
+
+
+
+
+
+
+Statistic Notes:
+
+Keep track of statistics such as kill streaks, team kills, and the best individual game performances.
+
+In a doc 'best_of_players' each uni league season should print out:
+DEADLY: Most kills in the season
+CLUTCH: Highest K/D ratio in the playoffs
+*ALMIGHTY: Longest kill streak
+SHIELD MASTER: Highest effective parry %
+TAKEOVER: Highest single game K/D
+OVERKILL: Most tesseract damage done by overkill
+DELAYED: Highest average delayed attack multiplier
+
+In a doc 'best_of_teams', each season for any league should print out:
+UNSTOPPABLE: Longest win streak
+MARATHON: Longest game/series
+
+
+
+For teams, keep track of the longest win streaks, the best individual seasons, and so on.
+
+Keep track of the biggest upsets.
